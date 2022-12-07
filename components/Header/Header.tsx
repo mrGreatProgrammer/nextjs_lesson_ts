@@ -42,6 +42,11 @@ const Header = () => {
             </div>
         </div>
       {/* Right */}
+      <div className="header__right">
+        <div className="header__profile">
+            
+        </div>
+      </div>
     </div>
   );
 };
