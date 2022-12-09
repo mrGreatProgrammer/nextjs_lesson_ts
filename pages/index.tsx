@@ -20,9 +20,12 @@ export default function Home() {
 
       <main>
         {/* SideBar */}
+        
         {/* Feed */}
+        
         {/* Widgets */}
-        {/* <h1>{data.name}</h1> */}
+
+
       </main>
 
     </div>
